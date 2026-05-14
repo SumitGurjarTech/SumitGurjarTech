@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sumit Gurjar 👋
 
-<!--
-**SumitGurjarTech/SumitGurjarTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 BCA Computer Science Student
+- 💻 Aspiring Web Developer
+- 🌱 Currently learning React.js and PHP
+- 🚀 Building projects consistently
 
-Here are some ideas to get you started:
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- C++
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Calculator App
+- To-Do App
+- Weather App
+- Login System using PHP
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/sumitgurjartech/
+
+ 
